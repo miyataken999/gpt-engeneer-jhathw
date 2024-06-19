@@ -1,0 +1,16 @@
+bottega_veneta/
+bottega_veneta/
+settings.py
+urls.py
+wsgi.py
+__init__.py
+apps/
+evaluation/
+models.py
+views.py
+serializers.py
+__init__.py
+__pycache__/
+db.sqlite3
+manage.py
+requirements.txt
